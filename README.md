@@ -2,6 +2,8 @@
 
 This is a Family Tree Warehouse Application (FTWA) : creates and manages family trees. FTWA keeps a track of the ancestral hierarchy of the user’s family. It was developed with "Pythonic Approach" in Python ([Python 3.0](https://www.python.org/download/releases/3.0/)) programming language on [PyCharm IDE](https://www.jetbrains.com/pycharm/) .
 
+A family tree already defined in the app as default. Change it with yours.
+
 These several rules that were implemented:
 
 - Users can add new members to the family tree and update people in family tree.
